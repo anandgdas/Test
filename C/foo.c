@@ -4,5 +4,6 @@
 /* This is test code */
 int main(int argc, char **argv) {
 	fprintf(stdout, "Hello World\n");
-	exit(0);
+	return 0;
+	/* exit(0); */
 }
